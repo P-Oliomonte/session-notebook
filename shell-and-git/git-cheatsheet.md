@@ -68,6 +68,8 @@
 
 `git branch` zeigt alle Branches
 
+`q` quit / exit aktuellen command (z.B. "END")
+
 `git branch -d <branch-name>` Branch löschen (-d = delete)
 
 `git pull` Alle Änderungen aktualisieren
