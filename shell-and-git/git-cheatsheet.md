@@ -32,6 +32,8 @@
 
 `git init` Repository erstellen / initialisieren
 
+`rm -rf .git` Git Repo wird entfernt / Ordner wird wieder normaler Ordner
+
 `main >` man befindet sich auf main branch
 
 `.gitignore` Datei in der alle Dateien aufgelistet sind, die nicht veröffentlicht werden sollen
@@ -52,4 +54,4 @@
 
 `git remote add origin <SSH-Key>` Verknüpfung zu Github-Repository mit entsprechenden SSH-Key herstellen
 
-`git push -u origin main` Push all commits to repo
+`git push -u origin main` Push all commits to repo (-u = upstream // macht man beim ersten Mal)
