@@ -10,6 +10,8 @@
 
 `clear` Terminal leeren (vorheriges wird nicht gelöscht, nur nach oben geschoben)
 
+`mkdir <folder-name>` Make directory / Ordner erstellen
+
 `touch <file-name.ending>` Datei erstellen
 
 `rm <file-name.ending>` remove file / Datei löschen
