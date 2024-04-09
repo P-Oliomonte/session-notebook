@@ -69,3 +69,5 @@
 `git branch` zeigt alle Branches
 
 `git branch -d <branch-name>` Branch löschen (-d = delete)
+
+`git pull` Alle Änderungen aktualisieren
