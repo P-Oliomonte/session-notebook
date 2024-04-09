@@ -55,3 +55,19 @@
 `git remote add origin <SSH-Key>` Verknüpfung zu Github-Repository mit entsprechenden SSH-Key herstellen
 
 `git push -u origin main` Push all commits to repo (-u = upstream // macht man beim ersten Mal)
+
+## Branch & PRs
+
+`git switch -c <branch-name>` Branch erstellen und direkt reinwechseln (Name z.B. navigation etc.) (-c = create)
+
+`git switch <branch-name>` auf existierenden Branch switchen
+
+`git switch -` zum letzten Branch switchen
+
+`git push -u origin <branch-name>` Push branch first time
+
+`git branch` zeigt alle Branches
+
+`git branch -d <branch-name>` Branch löschen (-d = delete)
+
+`git pull` Alle Änderungen aktualisieren
